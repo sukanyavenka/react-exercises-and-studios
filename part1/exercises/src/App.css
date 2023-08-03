@@ -41,3 +41,9 @@
   display:flex;
 justify-content:space-between;
 }
+
+.allign
+{
+  display: flex;
+  align-items: center;
+}
