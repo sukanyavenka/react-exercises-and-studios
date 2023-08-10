@@ -1,0 +1,22 @@
+{
+    "projects": [
+      {
+        "title": "Kaatril Endhan Geetham",
+        "artist": "Ilaiyaraaja",
+        "album": "Johnny",
+        "year": "1980"
+      },
+      {
+        "title": "Nenjukkule",
+        "artist": "A.R. Rahman",
+        "album": "Kadal",
+        "year": "2013"
+      },
+      {
+        "title": "Vaseegara",
+        "artist": "Harris Jayaraj",
+        "album": "Minnale",
+        "year": "2001"
+      }
+    ]
+}
